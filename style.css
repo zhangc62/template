@@ -3,7 +3,7 @@ body {
 	background:#DEB887;
 	font-family:Courier
 	width:960px;
-	margin:center;
+	margin:auto;
 }
 
 
@@ -43,7 +43,7 @@ a:hover {
 	height:30px;
 	width:110px;
 	text-align:center;
-	font-size:12px;
+	font-size:13px;
 	border: 2px solid black;
 	border-radius:10px;
 }
